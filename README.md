@@ -22,7 +22,7 @@
 
 [![Download APK](https://img.shields.io/badge/Download-Latest_APK-34C759?style=for-the-badge&logo=android&logoColor=white)](https://github.com/pankaj9088/LifeOs/releases/latest)
 
-Version 1.0.0 | Size:- 32 MB | Min SDK: 34 (Android 7.0+)
+Version 1.0.0 | Size:- 32 MB | Min SDK: 34 (Android 14+)
 
 ### 📥 Installation Instructions
 
@@ -153,10 +153,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 <div align="center">
-  <sub>Built with ❤️ for students using Kotlin & Google Gemini AI</sub>
+  <sub>Built with ❤️ for students </sub>
 </div>
