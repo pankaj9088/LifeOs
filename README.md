@@ -22,7 +22,7 @@
 
 [![Download APK](https://img.shields.io/badge/Download-Latest_APK-34C759?style=for-the-badge&logo=android&logoColor=white)](https://github.com/pankaj9088/LifeOs/releases/latest)
 
-Version 1.0.0 | Size:- 32 MB | Min SDK: 34 (Android 14+)
+Version 1.0.0 | Size:- 32 MB | Min SDK: 31 (Android 12+)
 
 ### 📥 Installation Instructions
 
@@ -89,7 +89,7 @@ Follow these steps to set up and run **LifeOS** locally on your machine.
 
 - [Android Studio Ladybug (2024.2.1)](https://developer.android.com/studio) or newer
 - JDK 17 or higher
-- Android SDK (API 34+)
+- Android SDK (API 31+)
 - A [Google Gemini API Key](https://aistudio.google.com/app/apikey)
 
 ### Installation Guide
