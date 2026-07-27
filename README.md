@@ -6,12 +6,11 @@
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=for-the-badge&logo=android)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose)](https://developer.android.com/jetpack/compose)
-[![Powered by Gemini](https://img.shields.io/badge/AI-Google%20Gemini-8E75B5.svg?style=for-the-badge&logo=googlegemini)](https://ai.google.dev/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 <br/>
 
-> **LifeOS** is an all-in-one productivity companion built for college students , LifeOS combines intelligent academic insights, automated study planning, focus work sessions, real-time GPA simulation, habit tracking, and career development tools into a sleek, glassmorphic Android application.
+**LifeOS** is an all-in-one productivity companion built for college students, LifeOS combines intelligent academic insights, automated study planning, focus work sessions, real-time GPA simulation, habit tracking, and career development tools into a sleek, glassmorphic Android application.
 
 </div>
 
