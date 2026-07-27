@@ -17,10 +17,23 @@
 
 ---
 
-## 🚀 Download
+## 🚀 Download Latest Release
 
 <div align="center">
+ Latest Release 
 
+
+Version 1.0.1 | Size:- 32 MB | Min SDK: 24 (Android 7.0+)
+
+Installation Instructions
+
+Download the APK from the link above
+Enable "Install from Unknown Sources" in your device settings
+Open the downloaded APK file
+Follow the installation prompts
+Launch the app and create your account!
+
+Note: For security reasons, always download from the official GitHub releases page.
 | Platform | Link | Description |
 | :--- | :--- | :--- |
 | ⚡ **Google AI Studio** | [**Launch Live App Demo**](https://ai.studio/apps/83fbc90c-08d0-404b-8d58-e9d098bbfdb1) | Test the app interactive demo inside Google AI Studio |
