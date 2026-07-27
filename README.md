@@ -17,9 +17,7 @@
 
 ---
 
-## 🚀 Live Demo
-
-Experience LifeOS live in action or run it directly on Google AI Studio:
+## 🚀 Download
 
 <div align="center">
 
