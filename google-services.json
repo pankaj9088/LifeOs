@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646819281547",
+    "project_id": "lifeos-ccd12",
+    "storage_bucket": "lifeos-ccd12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646819281547:android:d1bcdd69f76e110fbc728e",
+        "android_client_info": {
+          "package_name": "com.lifeos.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646819281547-6rvj7lhglq4ltdlh38ffhim9tirh6a98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQL5DHyU7UMc4HhZepQTiCf1afs64s94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646819281547-6rvj7lhglq4ltdlh38ffhim9tirh6a98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
