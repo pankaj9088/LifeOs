@@ -25,13 +25,16 @@ Version 1.0.1 | Size:- 32 MB | Min SDK: 34 (Android 7.0+)
 
 Installation Instructions
 
-1)Download the APK from the link above
+1)Download the APK from the link above.
+
 2)Enable "Install from Unknown Sources" in your device settings
-3)Open the downloaded APK file
-4)Follow the installation prompts
+3)Open the downloaded APK file.
+
+4)Follow the installation prompts.
+
 5)Launch the app and create your account!
 
-> Note: For security reasons, always download from the official GitHub releases page.
+> **Note:** For security reasons, always download from the official GitHub releases page.
 ---
 
 ## 📸 Screenshots & Showcase
