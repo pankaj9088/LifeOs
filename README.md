@@ -23,7 +23,7 @@
 
 Version 1.0.1 | Size:- 32 MB | Min SDK: 34 (Android 7.0+)
 
-Installation Instructions
+### 📥 Installation Instructions
 
 1)Download the APK from the link above.
 
