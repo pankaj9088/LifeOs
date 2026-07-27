@@ -20,8 +20,9 @@
 
  Latest Release 
 
+[![Download APK](https://img.shields.io/badge/Download-Latest_APK-34C759?style=for-the-badge&logo=android&logoColor=white)](https://github.com/pankaj9088/LifeOs/releases/latest)
 
-Version 1.0.1 | Size:- 32 MB | Min SDK: 34 (Android 7.0+)
+Version 1.0.0 | Size:- 32 MB | Min SDK: 34 (Android 7.0+)
 
 ### 📥 Installation Instructions
 
