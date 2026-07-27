@@ -31,7 +31,7 @@ Installation Instructions
 4)Follow the installation prompts
 5)Launch the app and create your account!
 
-Note: For security reasons, always download from the official GitHub releases page.
+> Note: For security reasons, always download from the official GitHub releases page.
 ---
 
 ## 📸 Screenshots & Showcase
